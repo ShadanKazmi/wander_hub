@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000645777",
+    "project_id": "wander-hub",
+    "storage_bucket": "wander-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000645777:android:2cfdcefa59c5cca2f74b30",
+        "android_client_info": {
+          "package_name": "com.example.wander_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000645777-j6f1p5ipl9tug84ociskdg1riha5rcfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEx4BDLJ9r0U6uRHdQtbW_fUJPOLSvf_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000645777-j6f1p5ipl9tug84ociskdg1riha5rcfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
